@@ -1,0 +1,65 @@
+# EXTM3U
+
+#EXTINF: -1, WILLAX
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmtjixqMxqPVFAYgYfRVVH9-k5MsBZ2x_WfFKbFbzxCaU)/dm/3/x7x4dgx/s/live-1.m3u8
+
+#EXTINF: -1, ATV+
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
+
+#EXTINF: -1, ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+
+#EXTINF: -1, PANAMERICANA
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF: -1, EXITOSA TV
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF: -1, TV PERU NOTICIAS
+https://cdnh74.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF: -1, CONTACTO DEPORTIVO
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, CABLEVISION 
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1672085912.m3u8
+
+#EXTINF: -1, VISION MUSICA
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w701737109.m3u8
+
+#EXTINF: -1, BEST CABLE MUSIC
+https://ca2.inka.net.pe/bestcablemusic/index.m3u8
+
+#EXTINF: -1, BEST CABLE
+https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, BEST CABLE SPORT
+https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, KARIBEÑA TV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+
+#EXTINF: -1, CHINCHA TV
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
+
+#EXTINF: -1, RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1623010239.m3u8
+
+#EXTINF: -1, RETRO PLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/chunklist_w1714254635.m3u8
+
+#EXTINF: -1, RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF: -1, TV PERU INTERNACIONAL
+https://cdnh74.iblups.com/hls/irtp.m3u8
+
+#EXTINF: -1, TV PERU IP JUVENIL
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF: -1, TV PERU
+https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF: -1, BETHEL TV
+https://d2ofok0g2ikqmc.cloudfront.net/out/v1/31a4166df3804e828624094974ab3143/index_audio_7_0_457668.mp4?m=1671423796
