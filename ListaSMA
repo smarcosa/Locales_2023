@@ -1,0 +1,64 @@
+# EXTM3U
+
+#EXTINF: -1, Frecuencia Latina
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+
+#EXTINF: -1, Willax
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsK9z4gvWqfzdkcAf5vFyLbEczM4A56IotxRP8nQIkK0)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
+#EXTINF: -1, TV Peru Noticias
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
+
+#EXTINF: -1, Cablevision
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w1672085912.m3u8
+
+#EXTINF: -1, ATV+
+https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
+
+#EXTINF: -1, ATV
+https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
+
+#EXTINF: -1, PANAMERICANA
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF: -1, EXITOSA TV
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+
+#EXTINF: -1, Contacto deportivo
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, VISION MUSICA
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w701737109.m3u8
+
+#EXTINF: -1, KARIBEÑA TV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+
+#EXTINF: -1, CHINCHA TV
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
+
+#EXTINF: -1, BETHEL TV
+https://d2ofok0g2ikqmc.cloudfront.net/out/v1/31a4166df3804e828624094974ab3143/index_audio_7_0_457668.mp4?m=1671423796
+
+#EXTINF: -1, MI TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+#EXTINF: -1, Retro Plus 1
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1226750608.m3u8
+
+#EXTINF: -1, Retro Plus 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w397143853.m3u8
+
+#EXTINF: -1, Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1314596064.m3u8
+
+#EXTINF: -1, RETRO CXTV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1155249105.m3u8
+
+#EXTINF: -1, RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w1803488268.m3u8
+
+#EXTINF: -1, OK TV
+https://stream.plixitv.live/oktv/oktv/chunklist_w524116745.m3u8
+
+#EXTINF: -1, RW TV
+https://live.obslivestream.com/rwtv/tracks-v3a1/mono.m3u8
